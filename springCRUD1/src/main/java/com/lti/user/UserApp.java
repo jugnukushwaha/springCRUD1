@@ -26,6 +26,7 @@ public class UserApp {
 		
 		empService.updateEmp(104, 90000);
 		System.out.println(empData);
+		System.out.println();
 	}
 
 }
